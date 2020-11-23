@@ -1,5 +1,10 @@
 # Mario
 
+
+How to begin? Let's approach this problem one step at a time.
+
+{% video https://www.youtube.com/watch?v=NAs4FIWkJ4s %}
+
 ## World 1-1
 
 Toward the end of World 1-1 in Nintendo's Super Mario Brothers, Mario must ascend right-aligned pyramid of blocks, a la the below.
@@ -91,9 +96,7 @@ within [this sandbox](http://bit.ly/2VAClIi).
 
 {% endspoiler %}
 
-How to begin? Let's approach this problem one step at a time.
 
-{% video https://www.youtube.com/watch?v=NAs4FIWkJ4s %}
 
 {% next %}
 

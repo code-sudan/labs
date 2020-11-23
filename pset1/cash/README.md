@@ -13,6 +13,11 @@ What's all that mean? Well, suppose that a cashier owes a customer some change a
 
 It turns out that this greedy approach (i.e., algorithm) is not only locally optimal but also globally so for America's currency (and also the European Union's). That is, so long as a cashier has enough of each coin, this largest-to-smallest approach will yield the fewest coins possible. How few? Well, you tell us!
 
+### Walkthrough
+
+{% video https://www.youtube.com/watch?v=Y3nWGvqt_Cg %}
+
+ 
 {% next %}
 
 ## Implementation Details
@@ -49,9 +54,6 @@ Change owed: 0.41
 4
 ```
 
-### Walkthrough
-
-{% video https://www.youtube.com/watch?v=Y3nWGvqt_Cg %}
 
 
 ### Staff's Solution

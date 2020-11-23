@@ -1,5 +1,9 @@
 # Hello
 
+### Walkthrough
+
+{% video https://www.youtube.com/watch?v=wSk1KSDUEYA %}
+
 ## Listing Files
 
 Hello, world! At right, in the *text editor*, is the very first program we wrote in C, in a file called `hello.c`.
