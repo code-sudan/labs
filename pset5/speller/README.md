@@ -1,4 +1,9 @@
 Speller
+
+### Walkthrough
+
+{% video https://youtu.be/_z57x5PGF4w?list=PLhQjrBD2T382T4b6jjwX_qbU23E_Unwcz %}
+
 Be sure to read this specification in its entirety before starting so you know what to do and how to do it!
 
 Implement a program that spell-checks a file, a la the below, using a hash table.

@@ -1,4 +1,8 @@
 Readability
+### Walkthrough
+
+{% video https://youtu.be/AOVyZEh9zgE %}
+
 Implement a program that computes the approximate grade level needed to comprehend some text, per the below.
 
 $ ./readability

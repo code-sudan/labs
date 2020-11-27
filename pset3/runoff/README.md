@@ -1,4 +1,9 @@
 Runoff
+
+### Walkthrough
+
+{% video https://youtu.be/-Vc5aGywKxo %}
+
 Implement a program that runs a runoff election, per the below.
 
 ./runoff Alice Bob Charlie
