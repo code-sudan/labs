@@ -1,4 +1,9 @@
 Filter
+
+### Walkthrough
+
+{% video https://youtu.be/K0v9byp9jd0?list=PLhQjrBD2T3837jmUt0ep7Tpmnxdv9NVut %}
+
 Implement a program that applies filters to BMPs, per the below.
 
 $ ./filter -r image.bmp reflected.bmp

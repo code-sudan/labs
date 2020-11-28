@@ -1,4 +1,9 @@
 Recover
+
+### Walkthrough
+
+{% video https://youtu.be/ooL0r_8N9ms %}
+
 Implement a program that recovers JPEGs from a forensic image, per the below.
 
 $ ./recover card.raw

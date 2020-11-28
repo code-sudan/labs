@@ -1,4 +1,10 @@
 Movies
+
+
+### Walkthrough
+
+{% video https://youtu.be/v5_A3giDlQs %}
+
 Write SQL queries to answer questions about a database of movies.
 
 Getting Started

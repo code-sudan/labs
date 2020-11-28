@@ -1,5 +1,10 @@
 # Mario
 
+
+### Walkthrough
+
+{% video https://www.youtube.com/watch?v=FzN9RAjYG_Q %}
+
 ## World 1-1
 
 Toward the beginning of World 1-1 in Nintendo's Super Mario Brothers, Mario must hop over adjacent pyramids of blocks, a la the below.

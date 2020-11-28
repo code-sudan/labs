@@ -1,4 +1,9 @@
 Houses
+
+### Walkthrough
+
+{% video https://youtu.be/3w-EvTiw3p8%}
+
 Implement a program to import student data into a database, and then produce class rosters.
 
 $ python import.py characters.csv

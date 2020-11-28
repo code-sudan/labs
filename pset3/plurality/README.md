@@ -1,4 +1,8 @@
 Plurality
+### Walkthrough
+
+{% video https://youtu.be/ftOapzDjEb8 %}
+
 Implement a program that runs a plurality election, per the below.
 
 $ ./plurality Alice Bob Charlie
